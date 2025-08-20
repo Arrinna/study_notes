@@ -1,5 +1,5 @@
 # My study notes
-- Python
-- Stats
+- Python libs
+- Math & Stats
 - ML
 - Other
